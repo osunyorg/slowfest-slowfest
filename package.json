@@ -1,0 +1,13 @@
+{
+  "name": "osuny-template",
+  "version": "2.1.0",
+  "repository": "https://github.com/osunyorg/template",
+  "author": "osunyorg",
+  "license": "MIT",
+  "dependencies": {
+    "osuny": "./themes/osuny"
+  },
+  "scripts": {
+    "osuny": "npx osuny-hugo-theme"
+  }
+}
