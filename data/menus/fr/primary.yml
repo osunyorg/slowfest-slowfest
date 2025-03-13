@@ -36,4 +36,11 @@ items:
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
+- title: Expositions
+  target: "/expositions/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/exhibitions"
+  file: content/fr/exhibitions/_index.html
 
