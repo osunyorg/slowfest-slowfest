@@ -55,4 +55,13 @@ items:
   descendants_targets: []
   path: "/exhibitions"
   file: content/fr/exhibitions/_index.html
+- title: Fichiers
+  slug: fichiers
+  target: "/fichiers/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/files"
+  file: content/fr/files/_index.html
 
